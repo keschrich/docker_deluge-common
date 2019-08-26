@@ -1,4 +1,4 @@
-# Git Repo for keschrich/deluge-common Docker image
+# keschrich/deluge-common Docker image
 ## Description
 **keschrich/deluge-common** ([Docker Hub](https://hub.docker.com/r/keschrich/deluge-common)) is the Docker base image used by **keschrich/deluged** ([Docker Hub](https://hub.docker.com/r/keschrich/deluged), [GitHub](https://github.com/keschrich/docker_deluged)) and **keschrich/deluge-web** ([Docker Hub](https://hub.docker.com/r/keschrich/deluge-web), [GitHub](https://github.com/keschrich/docker_deluge-web)).
 
