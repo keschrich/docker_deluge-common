@@ -1,6 +1,6 @@
 # keschrich/deluge-common Docker image
 ## Description
-**keschrich/deluge-common** ([Docker Hub](https://hub.docker.com/r/keschrich/deluge-common)) is the Docker base image used by **keschrich/deluged** ([Docker Hub](https://hub.docker.com/r/keschrich/deluged), [GitHub](https://github.com/keschrich/docker_deluged)) and **keschrich/deluge-web** ([Docker Hub](https://hub.docker.com/r/keschrich/deluge-web), [GitHub](https://github.com/keschrich/docker_deluge-web)).
+**keschrich/deluge-common** ([Docker Hub](https://hub.docker.com/r/keschrich/deluge-common), [GitHub](https://github.com/keschrich/docker_deluge-common)) is the Docker base image used by **keschrich/deluged** ([Docker Hub](https://hub.docker.com/r/keschrich/deluged), [GitHub](https://github.com/keschrich/docker_deluged)) and **keschrich/deluge-web** ([Docker Hub](https://hub.docker.com/r/keschrich/deluge-web), [GitHub](https://github.com/keschrich/docker_deluge-web)).
 
 It is itself based on *debian:stretch-slim* and contains the Deluge binaries, built from the source in the [Deluge Git repository](https://git.deluge-torrent.org/deluge). Presently installed is **Deluge 1.3.15**.
 
